@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/aloshvp/contact-manager.git/static/css/main.d35d604a.css",
-    "main.js": "/aloshvp/contact-manager.git/static/js/main.76df563b.js",
-    "static/js/453.a2c83ee7.chunk.js": "/aloshvp/contact-manager.git/static/js/453.a2c83ee7.chunk.js",
-    "static/media/delete.svg": "/aloshvp/contact-manager.git/static/media/delete.52d9d39a81495246d438.svg",
-    "static/media/user-avatar.svg": "/aloshvp/contact-manager.git/static/media/user-avatar.40c0abb66707bdb1a31a.svg",
-    "index.html": "/aloshvp/contact-manager.git/index.html",
-    "main.d35d604a.css.map": "/aloshvp/contact-manager.git/static/css/main.d35d604a.css.map",
-    "main.76df563b.js.map": "/aloshvp/contact-manager.git/static/js/main.76df563b.js.map",
-    "453.a2c83ee7.chunk.js.map": "/aloshvp/contact-manager.git/static/js/453.a2c83ee7.chunk.js.map"
+    "main.css": "/contact-manager/static/css/main.1fdf9fab.css",
+    "main.js": "/contact-manager/static/js/main.9238b34e.js",
+    "static/js/453.a2c83ee7.chunk.js": "/contact-manager/static/js/453.a2c83ee7.chunk.js",
+    "static/media/delete.svg": "/contact-manager/static/media/delete.52d9d39a81495246d438.svg",
+    "static/media/user-avatar.svg": "/contact-manager/static/media/user-avatar.40c0abb66707bdb1a31a.svg",
+    "index.html": "/contact-manager/index.html",
+    "main.1fdf9fab.css.map": "/contact-manager/static/css/main.1fdf9fab.css.map",
+    "main.9238b34e.js.map": "/contact-manager/static/js/main.9238b34e.js.map",
+    "453.a2c83ee7.chunk.js.map": "/contact-manager/static/js/453.a2c83ee7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d35d604a.css",
-    "static/js/main.76df563b.js"
+    "static/css/main.1fdf9fab.css",
+    "static/js/main.9238b34e.js"
   ]
 }
